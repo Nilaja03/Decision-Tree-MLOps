@@ -1,3 +1,4 @@
+pip install numpy pandas matplotlib
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
